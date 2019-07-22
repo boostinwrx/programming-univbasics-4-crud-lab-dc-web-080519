@@ -17,8 +17,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
- new_array = ${array}.pop
- p new_array
+ array = [a,b,c]
 end
 
 def remove_element_from_start_of_array(array)
